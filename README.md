@@ -1,3 +1,3 @@
 # hazmap
 ## - Alistair Langmuir Sanchez
-### - hazmap.org
+### - www.hazmap.org
